@@ -1,6 +1,6 @@
 # engdoc-intel · 工程报告智能抽取与检索服务
 
-> 作者：张金春（[jason-namehard](https://github.com/jason-namehard)）。状态：开发中。
+> 作者：（[jason-namehard](https://github.com/jason-namehard)）。状态：开发中。
 > 开发过程使用 AI 编程 Agent 协作（规划、审查、编码分工），每个模块由作者本人运行验证并记录评估结果。
 
 ## 要解决的问题
