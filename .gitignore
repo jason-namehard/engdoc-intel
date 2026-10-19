@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+data/raw/
+models/
+*.safetensors
+*.bin
+*.gguf
+logs/
+tmp/
+
+# 本地协作与学习记录，不公开
+AGENTS.md
+notes/
